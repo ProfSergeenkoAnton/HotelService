@@ -1,0 +1,12 @@
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\bin\Debug\net9.0\HotelService.Core.deps.json
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\bin\Debug\net9.0\HotelService.Core.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\bin\Debug\net9.0\HotelService.Core.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.csproj.AssemblyReference.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.AssemblyInfoInputs.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.AssemblyInfo.cs
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\refint\HotelService.Core.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\ref\HotelService.Core.dll
