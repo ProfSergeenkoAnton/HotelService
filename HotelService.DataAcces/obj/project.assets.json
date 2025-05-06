@@ -712,9 +712,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\HotelService.DataAcces.csproj",
-      "projectName": "HotelService.DataAcces",
-      "projectPath": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\HotelService.DataAcces.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\HotelService.DataAccess.csproj",
+      "projectName": "HotelService.DataAccess",
+      "projectPath": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\HotelService.DataAccess.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,16 +1,13 @@
-﻿using HotelService.DataAcces.Entities;
+﻿using HotelService.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace HotelService.DataAcces.Data
+
+namespace HotelService.DataAccess.Data
 {
     public class HotelServiceDbContext : DbContext
     {
-        public HotelServiceDbContext(DbContextOptions<HotelServiceDbContext> options) : base(options) { }
+        public HotelServiceDbContext(DbContextOptions<HotelServiceDbContext> options) : base(options)
+        { }
         public DbSet<BookingEntity> Bookings { get; set; }
         public DbSet<GuestEntity> Guests { get; set; }
         public DbSet<HouseKeepingEntity> HouseKeepings { get; set; }

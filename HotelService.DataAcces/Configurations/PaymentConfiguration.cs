@@ -1,4 +1,4 @@
-﻿using HotelService.DataAcces.Entities;
+﻿using HotelService.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HotelService.DataAcces.Configurations
+namespace HotelService.DataAccess.Configurations
 {
     public class PaymentConfiguration : IEntityTypeConfiguration<PaymentEntity>
     {
@@ -16,8 +16,12 @@ namespace HotelService.DataAcces.Configurations
             builder.HasKey(p=>p.ID);
 
             builder.
-                HasOne(p => p.Booking).
-                WithOne(p => p.Payment);
+                HasOne(b => b.Booking).
+                WithOne(p => p.Payment).
+                HasForeignKey<PaymentEntity>(p=>p.BookingID);
+
+          
+               
         }
     }
 }

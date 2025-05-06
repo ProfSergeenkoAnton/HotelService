@@ -22,4 +22,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="8.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HotelService.Core\HotelService.Core.csproj" />
+    <ProjectReference Include="..\HotelService.DataAcces\HotelService.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,16 @@
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\bin\Debug\net9.0\HotelService.DataAccess.deps.json
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\bin\Debug\net9.0\HotelService.DataAccess.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\bin\Debug\net9.0\HotelService.DataAccess.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\bin\Debug\net9.0\HotelService.Core.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\bin\Debug\net9.0\HotelService.Core.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.csproj.AssemblyReference.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.AssemblyInfoInputs.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.AssemblyInfo.cs
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.sourcelink.json
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelSer.ABC3AEC3.Up2Date
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\refint\HotelService.DataAccess.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\HotelService.DataAccess.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.DataAcces\obj\Debug\net9.0\ref\HotelService.DataAccess.dll

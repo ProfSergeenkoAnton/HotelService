@@ -108,6 +108,10 @@ D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\ru
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\HotelService.Core.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\HotelService.DataAccess.dll
+D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\HotelService.Core.pdb
+D:\Programming\C#\Web\HotelService\HotelService\HotelService\bin\Debug\net9.0\HotelService.DataAccess.pdb
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.csproj.AssemblyReference.cache
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.AssemblyInfoInputs.cache

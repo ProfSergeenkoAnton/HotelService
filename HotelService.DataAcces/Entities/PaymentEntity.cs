@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HotelService.DataAcces.Entities
+namespace HotelService.DataAccess.Entities
 {
     public class PaymentEntity
     {
@@ -21,6 +21,6 @@ namespace HotelService.DataAcces.Entities
         public PaymentStatus PaymentStatus { get; set; }
 
         public Guid BookingID { get; set; }
-        public BookingEntity? Booking { get; set; }
+        public BookingEntity Booking { get; set; }
     }
 }

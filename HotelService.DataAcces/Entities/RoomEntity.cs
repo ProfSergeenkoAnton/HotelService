@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HotelService.DataAcces.Entities
+namespace HotelService.DataAccess.Entities
 {
     public class RoomEntity
     {

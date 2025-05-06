@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\entities\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|solutionrelative:hotelservice.dataacces\\entities\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|solutionrelative:hotelservice.dataacces\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|solutionrelative:hotelservice.dataacces\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|solutionrelative:hotelservice.dataacces\\entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\entities\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAccess.csproj|solutionrelative:hotelservice.dataacces\\entities\\paymententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0F84A3-84B1-43EF-8629-5736AF7DFAD6}|HotelService\\HotelService.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice\\hotelservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D0F84A3-84B1-43EF-8629-5736AF7DFAD6}|HotelService\\HotelService.csproj|solutionrelative:hotelservice\\hotelservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "HotelService",
+              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService\\HotelService.csproj",
+              "RelativeDocumentMoniker": "HotelService\\HotelService.csproj",
+              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService\\HotelService.csproj",
+              "RelativeToolTip": "HotelService\\HotelService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T15:23:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PaymentEntity.cs",
               "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\PaymentEntity.cs",
               "RelativeDocumentMoniker": "HotelService.DataAcces\\Entities\\PaymentEntity.cs",
               "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\PaymentEntity.cs",
               "RelativeToolTip": "HotelService.DataAcces\\Entities\\PaymentEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:33:54.156Z",
+              "WhenOpened": "2025-05-06T15:19:06.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "HotelService.DataAcces\\Entities\\BookingEntity.cs",
+              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\BookingEntity.cs",
+              "RelativeToolTip": "HotelService.DataAcces\\Entities\\BookingEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:19:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Configurations\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelService.DataAcces\\Configurations\\PaymentConfiguration.cs",
+              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Configurations\\PaymentConfiguration.cs",
+              "RelativeToolTip": "HotelService.DataAcces\\Configurations\\PaymentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:16:58.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Configurations\\BookingConfiguration.cs",
+              "RelativeDocumentMoniker": "HotelService.DataAcces\\Configurations\\BookingConfiguration.cs",
+              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Configurations\\BookingConfiguration.cs",
+              "RelativeToolTip": "HotelService.DataAcces\\Configurations\\BookingConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:16:01.216Z",
               "EditorCaption": ""
             }
           ]

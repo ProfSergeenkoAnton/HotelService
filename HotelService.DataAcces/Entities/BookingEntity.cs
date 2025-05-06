@@ -1,7 +1,7 @@
 ﻿using HotelService.Core.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace HotelService.DataAcces.Entities
+namespace HotelService.DataAccess.Entities
 {
     public class BookingEntity
     {
@@ -22,7 +22,7 @@ namespace HotelService.DataAcces.Entities
 
         public RoomEntity? Room { get; set; }
 
-        public Guid PaymentID { get; set; }
+        public Guid? PaymentID { get; set; }
         public PaymentEntity? Payment { get; set; }
     }
 }

@@ -1,9 +1,9 @@
 ﻿
-using HotelService.DataAcces.Entities;
+using HotelService.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace HotelService.DataAcces.Configurations
+namespace HotelService.DataAccess.Configurations
 {
     public class GuestConfiguration : IEntityTypeConfiguration<GuestEntity>
     {
