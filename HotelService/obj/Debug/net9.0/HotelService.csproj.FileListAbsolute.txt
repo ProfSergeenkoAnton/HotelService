@@ -115,6 +115,7 @@ D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\Ho
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.csproj.CoreCompileInputs.cache
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.MvcApplicationPartsAssemblyInfo.cs
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.sourcelink.json
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\scopedcss\bundle\HotelService.styles.css
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\staticwebassets.build.json
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\staticwebassets.development.json
@@ -131,4 +132,3 @@ D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\re
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.pdb
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\HotelService.genruntimeconfig.cache
 D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\ref\HotelService.dll
-D:\Programming\C#\Web\HotelService\HotelService\HotelService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

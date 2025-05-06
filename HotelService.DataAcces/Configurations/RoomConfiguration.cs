@@ -18,8 +18,6 @@ namespace HotelService.DataAcces.Configurations
             builder.
                 HasMany(b => b.Bookings).
                 WithOne(b => b.Room);
-
-
         }
     }
 }

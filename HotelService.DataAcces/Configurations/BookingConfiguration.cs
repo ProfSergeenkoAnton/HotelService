@@ -17,10 +17,18 @@ namespace HotelService.DataAcces.Configurations
 
             builder.
                 HasOne(g => g.Guest).
-                WithMany(b => b.Bookings);
+                WithMany(b => b.Bookings).
+                HasForeignKey(b=>b.guestID);
 
-            builder.HasOne(r=>r.Room).
-                WithMany(b => b.Bookings);
+            builder.
+                HasOne(r => r.Room).
+                WithMany(b => b.Bookings).
+                HasForeignKey(b=>b.roomID);
+
+            builder.
+                HasOne(b => b.Payment).
+                WithOne(p => p.Booking);
+                
 
         }
     }

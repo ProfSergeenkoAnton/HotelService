@@ -14,6 +14,10 @@ namespace HotelService.DataAcces.Configurations
         public void Configure(EntityTypeBuilder<PaymentEntity> builder)
         {
             builder.HasKey(p=>p.ID);
+
+            builder.
+                HasOne(p => p.Booking).
+                WithOne(p => p.Payment);
         }
     }
 }

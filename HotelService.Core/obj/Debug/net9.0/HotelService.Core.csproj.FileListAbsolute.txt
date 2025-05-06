@@ -6,6 +6,7 @@ D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.AssemblyInfoInputs.cache
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.AssemblyInfo.cs
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.sourcelink.json
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.dll
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\refint\HotelService.Core.dll
 D:\Programming\C#\Web\HotelService\HotelService\HotelService.Core\obj\Debug\net9.0\HotelService.Core.pdb

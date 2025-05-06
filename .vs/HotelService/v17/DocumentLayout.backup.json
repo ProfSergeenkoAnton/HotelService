@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\data\\hotelservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|solutionrelative:hotelservice.dataacces\\data\\hotelservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|d:\\programming\\c#\\web\\hotelservice\\hotelservice\\hotelservice.dataacces\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96304E9C-F46E-4DDC-867A-AC834DB395BE}|HotelService.DataAcces\\HotelService.DataAcces.csproj|solutionrelative:hotelservice.dataacces\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HotelServiceDbContext.cs",
-              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Data\\HotelServiceDbContext.cs",
-              "RelativeDocumentMoniker": "HotelService.DataAcces\\Data\\HotelServiceDbContext.cs",
-              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Data\\HotelServiceDbContext.cs",
-              "RelativeToolTip": "HotelService.DataAcces\\Data\\HotelServiceDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "HotelService.DataAcces\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\Programming\\C#\\Web\\HotelService\\HotelService\\HotelService.DataAcces\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "HotelService.DataAcces\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:49:20.281Z",
+              "WhenOpened": "2025-05-06T13:22:27.733Z",
               "EditorCaption": ""
             }
           ]
